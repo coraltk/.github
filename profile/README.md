@@ -1,5 +1,5 @@
 # coraltk.github.io
-The coral tech website 🐟
+We like coral and pastel colour palettes 🐟
 
 ## $ What is coral tech?
 
